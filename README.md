@@ -30,7 +30,7 @@
 
 **提交物**：本课程要求使用java或python语言完成，本次lab如果用java语言完成需提交`InsertionSort.java`, `MergeSort.java` 
 以及 `OptSort.java`；python语言需提交`InsertionSort.py`, `MergeSort.py` 
-以及 `OptSort.py`。
+以及 `OptSort.py`。本次实验需要提交说明文档，请大家注意。
 
 **截止时间**：2020年9月30日 23：59：59
 
